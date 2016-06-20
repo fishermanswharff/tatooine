@@ -10,7 +10,7 @@ Deployability, to me, refers to the ease with which a dev team can push new code
 * ease of scalability (both algorithmically and from an infrastructure standpoint)
   * Does the codebase wilt under the pressure of high traffic?
   * Can the server infrastructure handle an increasing traffic load?
-* no 'manual' steps to push production code (ie not having to manually copy/paste secrets)
+* no 'manual' steps to push production code (ie not having to manually copy/paste secrets, automating builds and deployment to host)
 * integration between CI provider and application host
 
 ## Making RoR applications 'highly deployable'
